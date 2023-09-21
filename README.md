@@ -18,6 +18,7 @@ You can install these dependencies using pip:
 
 ```bash
 pip install selenium pandas numpy
+```
 
 ## Usage
 
