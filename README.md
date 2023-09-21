@@ -18,3 +18,26 @@ You can install these dependencies using pip:
 
 ```bash
 pip install selenium pandas numpy
+
+## Usage
+
+The main script, `amazon_product_scraper.ipynb`, demonstrates how to use Selenium to scrape product information from Amazon. The code is organized into sections for retrieving product details, such as descriptions, prices, images, ratings, and total ratings. The scraped data is then saved to a CSV file for further analysis.
+
+You can customize the script to scrape specific product categories or search results by modifying the Amazon search URL within the code.
+
+## Output
+
+The scraped data is stored in a CSV file named `Amazon Product Scraping.csv`. This file contains columns for product descriptions, prices, image URLs, ratings, and total ratings.
+
+## Contributing
+
+If you would like to contribute to this project or report issues, please open an issue or create a pull request.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Acknowledgments
+
+- This project was inspired by the need to gather Amazon product data for analysis and research purposes.
+- Special thanks to the open-source community for developing the Selenium library.
