@@ -14,6 +14,17 @@ Before running the code, make sure you have the following prerequisites installe
 - pandas
 - numpy
 
+
+## Web Scraping, Simplified
+Our powerful tool leverages the Python Selenium library to effortlessly extract essential product information from Amazon, including:
+
+* Product Descriptions
+* Prices
+* Image URLs
+* Ratings
+* Total Ratings
+
+
 You can install these dependencies using pip:
 
 ```bash
