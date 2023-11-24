@@ -1,4 +1,4 @@
-# Amazon Product Scraping with Selenium
+# Amazon Products Scraping with Selenium
 
 ## Overview
 
