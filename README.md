@@ -40,6 +40,7 @@ You can customize the script to scrape specific product categories or search res
 ## Output
 
 The scraped data is stored in a CSV file named `Amazon Product Scraping.csv`. This file contains columns for product descriptions, prices, image URLs, ratings, and total ratings.
+[!out](https://github.com/3amory99/Amazon-Product-Scrapping-with-Selenium/blob/main/Capturae.PNG)
 
 ## Contributing
 
